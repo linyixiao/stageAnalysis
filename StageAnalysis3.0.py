@@ -125,7 +125,7 @@ def analysis(filename):
 
 
 def main(args):
-    file = "./logs/logs/spark logs/pr_log"
+    file = "./pr_log"
     analysis(file)
 
 if __name__ == "__main__":
